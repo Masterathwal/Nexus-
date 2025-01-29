@@ -15,7 +15,7 @@ A voice-controlled AI chatbot built with Python, Streamlit, and various APIs to 
 ## Installation & Usage 🛠️  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/yourusername/nexus-ai-voice-assistant.git
+   git clone https://github.com/Masterathwal/Nexus-
    cd nexus-ai-voice-assistant
    ```  
 2. Install dependencies:  
@@ -26,11 +26,5 @@ A voice-controlled AI chatbot built with Python, Streamlit, and various APIs to 
    ```sh
    python main.py
    ```  
-
-## Future Enhancements 🌟  
-- Add support for more languages.  
-- Improve voice recognition accuracy.  
-- Implement personal assistant features like reminders.  
-
 ---
 Let me know if you have any suggestions or improvements! 🚀
