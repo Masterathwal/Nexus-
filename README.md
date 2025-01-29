@@ -9,7 +9,7 @@ A voice-controlled AI chatbot built with Python, Streamlit, and various APIs to 
 - 📢 **Volume Control**: Adjusts system volume using `pyautogui`.  
 - ⏰ **Time Announcements**: Provides the current time.  
 - 📚 **Knowledge Queries**: Uses Wolfram Alpha and DuckDuckGo APIs for factual answers.  
-- 🤖 **AI-Powered Responses**: Integrates Bard AI for chatbot-like interactions.  
+- 🤖 **AI-Powered Responses**: Integrates Gemini AI for chatbot-like interactions.  
 - 🎨 **UI with Streamlit**: Interactive web-based interface with animations.  
 
 ## Installation & Usage 🛠️  
