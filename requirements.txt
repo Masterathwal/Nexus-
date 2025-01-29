@@ -1,0 +1,11 @@
+speechrecognition
+pywin32
+pywhatkit
+pyautogui
+requests
+streamlit
+streamlit-chat
+streamlit-lottie
+wolframalpha
+bardapi
+
